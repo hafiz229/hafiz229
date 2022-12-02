@@ -1,4 +1,4 @@
-- 👋 Hi, I’m A H M Golam Hafiz
+- 👋 Hi, I’m Hafiz
 - 👀 I’m interested in MERN Stack Web Development
 - 🌱 I’m currently learning React.js
 - 💞️ I'm a problem solver,and fast learner
