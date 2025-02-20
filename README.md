@@ -5,7 +5,7 @@
 
 ### **Frontend Developer | React.js Specialist | Real-Time Web Applications**
 
-I'm a skilled **Frontend Developer** with over **2 years of experience** specializing in **React.js**, **JavaScript**, and modern web technologies. I’m passionate about building **responsive**, **dynamic**, and **high-performance web applications** that deliver seamless user experiences. My expertise includes **state management** (Redux Toolkit, Context API), **real-time data handling** (SignalR, WebSocket), and **performance optimization**.
+I'm a skilled **Frontend Developer** with over **3 years of experience** specializing in **React.js**, **JavaScript**, and modern web technologies. I’m passionate about building **responsive**, **dynamic**, and **high-performance web applications** that deliver seamless user experiences. My expertise includes **state management** (Redux Toolkit, Context API), **real-time data handling** (SignalR, WebSocket), and **performance optimization**.
 
 ---
 
@@ -15,19 +15,28 @@ I'm a skilled **Frontend Developer** with over **2 years of experience** special
 - JavaScript, TypeScript
 
 ### **Frontend**
-- React.js, Next.js, Material UI, Bootstrap, Tailwind CSS
+- React, Redux, RTK, Context API, Next.js, Material UI, Bootstrap, Tailwind CSS, HTML5, CSS3,  JSON, HTTP
 
-### **State Management**
-- Redux Toolkit, Context API
-
-### **Web Services**
-- REST, WebSocket, SignalR
+### **Backend**
+- Node.js, Express.js
 
 ### **Databases**
 - MongoDB
 
+### **Testing**
+- Jest, React Testing Library, Cypress
+
+### **Cloud**
+- AWS EC2, AWS S3, AWS Lambda
+
+### **DevOps Tools**
+- Docker, Kubernetes
+
+### **Web Services**
+- REST, WebSocket
+
 ### **Tools**
-- GitHub, Jira, Slack, ClickUp, Visual Studio Code
+- Visual Studio Code, MongoDB Atlas, SignalR, Postman, GitHub, BitBucket Jira, Slack, ClickUp, Vercel, Netlify, npm, Yarn, Babel, Webpack
 
 ---
 
