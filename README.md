@@ -29,8 +29,8 @@ I'm a skilled **Frontend Developer** with over **3 years of experience** special
 ### **Cloud**
 - AWS EC2, AWS S3, AWS Lambda
 
-### **DevOps Tools**
-- Docker, Kubernetes
+### **DevOps & CI/CD**
+- Docker, Kubernetes, GitHub Actions, Jenkins
 
 ### **Web Services**
 - REST, WebSocket
