@@ -5,7 +5,7 @@
 
 ### **Frontend Developer | React.js Specialist | Real-Time Web Applications**
 
-I'm a skilled **Frontend Developer** with over **3 years of experience** specializing in **React.js**, **JavaScript**, and modern web technologies. I’m passionate about building **responsive**, **dynamic**, and **high-performance web applications** that deliver seamless user experiences. My expertise includes **state management** (Redux Toolkit, Context API), **real-time data handling** (SignalR, WebSocket), and **performance optimization**.
+I'm a skilled **Frontend Developer** with over **4 years of experience** specializing in **React.js**, **JavaScript**, and modern web technologies. I’m passionate about building **responsive**, **dynamic**, and **high-performance web applications** that deliver seamless user experiences. My expertise includes **state management** (Redux Toolkit, Context API), **real-time data handling** (SignalR, WebSocket), and **performance optimization**.
 
 ---
 
