@@ -15,7 +15,7 @@ I'm a skilled **Frontend Developer** with over **4 years of experience** special
 - JavaScript, TypeScript
 
 ### **Frontend**
-- React, Redux, RTK, Context API, Next.js, Material UI, Bootstrap, Tailwind CSS, HTML5, CSS3,  JSON, HTTP
+- React, React Native (familiar), Redux, RTK, Context API, Next.js, Material UI, Bootstrap, Tailwind CSS, HTML5, CSS3,  JSON, HTTP
 
 ### **Backend**
 - Node.js, Express.js
@@ -33,7 +33,7 @@ I'm a skilled **Frontend Developer** with over **4 years of experience** special
 - Docker, Kubernetes, GitHub Actions, Jenkins
 
 ### **Web Services**
-- REST, WebSocket
+- REST, WebSocket, JSON Web Token (JWT)
 
 ### **Tools**
 - Visual Studio Code, MongoDB Atlas, SignalR, Postman, GitHub, BitBucket Jira, Slack, ClickUp, Vercel, Netlify, npm, Yarn, Babel, Webpack
