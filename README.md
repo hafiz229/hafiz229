@@ -5,7 +5,7 @@
 
 ### **Frontend Developer | React.js Specialist | Real-Time Web Applications**
 
-I'm a skilled **Frontend Developer** with over **4 years of experience** specializing in **React.js**, **JavaScript**, and modern web technologies. I’m passionate about building **responsive**, **dynamic**, and **high-performance web applications** that deliver seamless user experiences. My expertise includes **state management** (Redux Toolkit, Context API), **real-time data handling** (SignalR, WebSocket), and **performance optimization**.
+Skilled Front-End Developer with 5+ years of experience building fast, scalable, and responsive web applications using JavaScript, TypeScript, and React. Strong background in the FinTech domain, including the development of FIX-certified trading platforms. Proficient in Redux Toolkit, Context API, WebSocket integration, and real-time data handling. Experienced in working with complex UI components like TradingView and AG Grid. Focused on performance optimization, cross-browser compatibility, and delivering clean, maintainable code in Agile environments..
 
 ---
 
@@ -15,13 +15,13 @@ I'm a skilled **Frontend Developer** with over **4 years of experience** special
 - JavaScript, TypeScript
 
 ### **Frontend**
-- React, React Native (familiar), Redux, RTK, Context API, Next.js, Material UI, Bootstrap, Tailwind CSS, HTML5, CSS3,  JSON, HTTP
+- React.js, Redux, RTK, Zustand, Context API, Next.js, Material UI, Bootstrap, Tailwind CSS, HTML5, CSS3, JSON, HTTP
 
 ### **Backend**
-- Node.js, Express.js
+- Node.js, Express.js, NestJS
 
 ### **Databases**
-- MongoDB
+- MongoDB, Redis, MySQL
 
 ### **Testing**
 - Jest, React Testing Library, Cypress
@@ -35,8 +35,11 @@ I'm a skilled **Frontend Developer** with over **4 years of experience** special
 ### **Web Services**
 - REST, WebSocket, JSON Web Token (JWT)
 
+### **SDLC**
+- Agile, SCRUM
+
 ### **Tools**
-- Visual Studio Code, MongoDB Atlas, SignalR, Postman, GitHub, BitBucket Jira, Slack, ClickUp, Vercel, Netlify, npm, Yarn, Babel, Webpack
+- Visual Studio Code, MongoDB Atlas, SignalR, Postman, Git, GitHub, BitBucket, Jira, Slack, ClickUp, Vercel, Netlify, Npm, Yarn, Babel, Webpack
 
 ---
 
