@@ -5,7 +5,8 @@
 
 ### **Frontend Developer | React.js Specialist | Real-Time Web Applications**
 
-Skilled Front-End Developer with 5+ years of experience building fast, scalable, and responsive web applications using JavaScript, TypeScript, and React. Strong background in the FinTech domain, including the development of FIX-certified trading platforms. Proficient in Redux Toolkit, Context API, WebSocket integration, and real-time data handling. Experienced in working with complex UI components like TradingView and AG Grid. Focused on performance optimization, cross-browser compatibility, and delivering clean, maintainable code in Agile environments..
+Senior Front-End Developer with 5+ years of expertise in React, TypeScript, and Next.js, specializing in
+high-performance, real-time web applications. Architected frontend integration for a FIX Protocol-compliant trading platform (500K+ daily orders) using WebSocket, Redux Toolkit, and AG Grid, achieving 30% faster load times via performance optimization. Skilled in full-stack development (Node.js, MongoDB) and cloud deployment (AWS, Docker, CI/CD pipelines). Passionate about scalable architecture, clean code, and Agile collaboration to deliver robust user experiences.
 
 ---
 
