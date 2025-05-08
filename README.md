@@ -34,7 +34,7 @@ high-performance, real-time web applications. Architected frontend integration f
 - Docker, Kubernetes, GitHub Actions, Jenkins
 
 ### **Web Services**
-- REST, WebSocket, JSON Web Token (JWT)
+- REST, GraphQL, WebSocket, JSON Web Token (JWT)
 
 ### **SDLC**
 - Agile, SCRUM
