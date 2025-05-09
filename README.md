@@ -16,13 +16,10 @@ high-performance, real-time web applications. Architected frontend integration f
 - JavaScript, TypeScript
 
 ### **Frontend**
-- React.js, Redux, RTK, Zustand, Context API, Next.js, Material UI, Bootstrap, Tailwind CSS, HTML5, CSS3, JSON, HTTP
+- React, Next.js, Redux, Redux Toolkit (RTK), Zustand, Context API, Tailwind CSS, Material UI, Bootstrap, HTML5, CSS3, JSON, HTTP, WCAG 2.0
 
-### **Backend**
-- Node.js, Express.js, NestJS
-
-### **Databases**
-- MongoDB, Redis, MySQL
+### **Backend and Databases**
+- Node.js, Express.js, NestJS, Mongoose, MongoDB, Redis, MySQL, REST API, GraphQL, Apollo, WebSocket, JSON Web Token (JWT)
 
 ### **Testing**
 - Jest, React Testing Library, Cypress
@@ -33,14 +30,11 @@ high-performance, real-time web applications. Architected frontend integration f
 ### **DevOps & CI/CD**
 - Docker, Kubernetes, GitHub Actions, Jenkins
 
-### **Web Services**
-- REST, GraphQL, WebSocket, JSON Web Token (JWT)
-
 ### **SDLC**
 - Agile, SCRUM
 
 ### **Tools**
-- Visual Studio Code, MongoDB Atlas, SignalR, Postman, Git, GitHub, BitBucket, Jira, Slack, ClickUp, Vercel, Netlify, Npm, Yarn, Babel, Webpack
+- Visual Studio Code, MongoDB Atlas, SignalR, Postman, Git, GitHub, BitBucket, Jira, Slack, ClickUp, Vercel, Netlify, Npm, Yarn, Babel, Webpack, ESLint, Prettier
 
 ---
 
