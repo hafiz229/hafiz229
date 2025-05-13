@@ -5,8 +5,7 @@
 
 ### **Frontend Developer | React.js Specialist | Real-Time Web Applications**
 
-Senior Front-End Developer with 5+ years of expertise in React, TypeScript, and Next.js, specializing in
-high-performance, real-time web applications. Architected frontend integration for a FIX Protocol-compliant trading platform (500K+ daily orders) using WebSocket, Redux Toolkit, and AG Grid, achieving 30% faster load times via performance optimization. Skilled in full-stack development (Node.js, MongoDB) and cloud deployment (AWS, Docker, CI/CD pipelines). Passionate about scalable architecture, clean code, and Agile collaboration to deliver robust user experiences.
+Frontend Engineer with 5 years of experience building high-performance, user-friendly web applications in the fintech and education sectors. Specializing in JavaScript, TypeScript, React, Next.js, and modern state management tools like Redux and Context API. Proficient in integrating REST and GraphQL APIs, optimizing performance, and delivering responsive UIs using Tailwind CSS, Material UI, and Bootstrap. Experienced with WebSockets, JWT, Jest, and Cypress for real-time features and testing. Adept at deploying scalable applications with Docker, GitHub Actions, and AWS in Agile environments.
 
 ---
 
@@ -19,7 +18,7 @@ high-performance, real-time web applications. Architected frontend integration f
 - React, Next.js, Redux, Redux Toolkit (RTK), Zustand, Context API, Tailwind CSS, Material UI, Bootstrap, HTML5, CSS3, JSON, HTTP, WCAG 2.0
 
 ### **Backend and Databases**
-- Node.js, Express.js, NestJS, Mongoose, MongoDB, Redis, MySQL, REST API, GraphQL, Apollo, WebSocket, JSON Web Token (JWT)
+- Node.js, Express.js, NestJS, Mongoose, MongoDB, Redis, MySQL, REST API, GraphQL, Apollo Client, WebSocket, JSON Web Token (JWT)
 
 ### **Testing**
 - Jest, React Testing Library, Cypress
