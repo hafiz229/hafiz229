@@ -5,7 +5,7 @@
 
 ### **Frontend Developer | React.js Specialist | Real-Time Web Applications**
 
-Frontend Engineer with 5 years of experience building high-performance, user-friendly web applications in the fintech and education sectors. Specializing in JavaScript, TypeScript, React, Next.js, and modern state management tools like Redux and Context API. Proficient in integrating REST and GraphQL APIs, optimizing performance, and delivering responsive UIs using Tailwind CSS, Material UI, and Bootstrap. Experienced with WebSockets, JWT, Jest, and Cypress for real-time features and testing. Adept at deploying scalable applications with Docker, GitHub Actions, and AWS in Agile environments.
+Senior React Developer with 5 years of experience building high-performance, user-friendly web applications in the fintech and education sectors. Specializing in JavaScript, TypeScript, React, Next.js, and modern state management tools like Redux and Context API. Proficient in integrating REST and GraphQL APIs, optimizing performance, and delivering responsive UIs using Tailwind CSS, Material UI, and Bootstrap. Experienced with WebSockets, JWT, Jest, React Testing Library, and Cypress for real-time features and testing. Adept at deploying scalable applications with Docker, GitHub Actions, and GCP/AWS in Agile environments.
 
 ---
 
@@ -24,7 +24,7 @@ Frontend Engineer with 5 years of experience building high-performance, user-fri
 - Jest, React Testing Library, Cypress
 
 ### **Cloud**
-- AWS EC2, AWS S3, AWS Lambda
+- GCP (App Engine, Cloud Run, Cloud Functions, Firebase, Cloud Build, Firebase Hosting, Cloud Storage, GKE), AWS (EC2, Lambda, ECS, EKS, S3, CloudFront, API Gateway, CodePipeline, IAM, CloudWatch)
 
 ### **DevOps & CI/CD**
 - Docker, Kubernetes, GitHub Actions, Jenkins
