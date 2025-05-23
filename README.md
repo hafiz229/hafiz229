@@ -15,7 +15,7 @@ Senior React Developer with 5 years of experience building high-performance, use
 - JavaScript, TypeScript
 
 ### **Frontend**
-- React, Next.js, Redux, Redux Toolkit (RTK), Zustand, Context API, Tailwind CSS, Material UI, Bootstrap, HTML5, CSS3, JSON, HTTP, WCAG 2.0
+- React, Next.js, Redux, Redux Toolkit (RTK), Zustand, Context API, Tailwind CSS, Material UI, Bootstrap, HTML5, CSS3, AG Grid, Highcharts, D3.js, JSON, HTTP, WCAG 2.0
 
 ### **Backend and Databases**
 - Node.js, Express.js, NestJS, Mongoose, MongoDB, Redis, MySQL, REST API, GraphQL, Apollo Client, WebSocket, JSON Web Token (JWT)
