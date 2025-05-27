@@ -40,9 +40,3 @@ Senior React Developer with 5 years of experience building high-performance, use
 ## 📫 **Let's Connect!**
 - **LinkedIn:** [linkedin.com/in/hafiz229](https://www.linkedin.com/in/hafiz229)
 - **Email:** [hasnathafiz.miu@gmail.com](mailto:hasnathafiz.miu@gmail.com)
-
----
-
-## 🔥 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hafiz229&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hafiz229&theme=radical)
