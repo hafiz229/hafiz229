@@ -26,11 +26,8 @@ Senior Software Engineer with 5 years of experience building high-performance, u
 ### **Testing**
 - Jest, React Testing Library, Cypress
 
-### **Cloud**
-- AWS (EC2, Lambda, ECS, EKS, S3, CloudFront, API Gateway, CodePipeline, IAM, CloudWatch)
-
-### **DevOps & CI/CD**
-- Docker, Kubernetes, GitHub Actions, Jenkins
+### **DevOps & Cloud**
+- Docker, Kubernetes, GitHub Actions, Jenkins, AWS
 
 ### **SDLC**
 - Agile, SCRUM
