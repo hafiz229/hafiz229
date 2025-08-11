@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hafiz229)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail)](mailto:hasnathafiz.miu@gmail.com)
 
-### **Sofware Engineer | React.js | Next.js | JavaScript | TypeScript | Node.js | Express.js | MongoDB**
+### **Senior Sofware Engineer | React.js | Next.js | JavaScript | TypeScript | Node.js | Express.js | MongoDB**
 
 Senior Software Engineer with 5 years of experience building high-performance, user-friendly web applications in the fintech and education sectors. Specializing in JavaScript, TypeScript, React, Next.js, and modern state management tools like Redux and Context API. Experienced in developing backend services using Node.js, Express.js, and MongoDB. Proficient in integrating REST and GraphQL APIs, optimizing performance, and delivering responsive UIs using Tailwind CSS, Material UI, and Bootstrap. Experienced with WebSockets, JWT, Jest, and Cypress for real-time features and testing. Adept at deploying scalable applications with Docker, GitHub Actions, and AWS in Agile environments.
 
